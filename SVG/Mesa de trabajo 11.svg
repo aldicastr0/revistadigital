@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="buendia" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: ACaslonPro-Bold, 'Adobe Caslon Pro';
+        font-size: 100px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: .02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(356.01 311.15)"><tspan x="0" y="0">En</tspan><tspan class="cls-1" x="126" y="0">t</tspan><tspan class="cls-6" x="160.6" y="0">r</tspan><tspan x="196.7" y="0">e la </tspan><tspan class="cls-1" x="356.39" y="0">e</tspan><tspan x="401.99" y="0">x</tspan><tspan class="cls-6" x="444.99" y="0">a</tspan><tspan x="490.09" y="0">c</tspan><tspan class="cls-1" x="533.69" y="0">t</tspan><tspan x="568.29" y="0">i</tspan><tspan class="cls-1" x="597.29" y="0">t</tspan><tspan x="631.88" y="0">ud del oficio y </tspan><tspan x="102.85" y="106">la t</tspan><tspan class="cls-1" x="231.54" y="106">e</tspan><tspan x="277.14" y="106">x</tspan><tspan class="cls-1" x="320.14" y="106">t</tspan><tspan x="354.74" y="106">u</tspan><tspan class="cls-1" x="409.44" y="106">r</tspan><tspan x="446.54" y="106">a de lo human</tspan><tspan class="cls-5" x="1027.63" y="106">o,</tspan><tspan x="1102.13" y="106"> </tspan><tspan class="cls-1" x="21.65" y="212">tr</tspan><tspan class="cls-6" x="93.34" y="212">a</tspan><tspan x="138.45" y="212">duce el lenguaje visual de </tspan><tspan x="21.45" y="318">Amé</tspan><tspan class="cls-4" x="221.35" y="318">r</tspan><tspan x="259.95" y="318">i</tspan><tspan class="cls-2" x="288.95" y="318">c</tspan><tspan x="333.54" y="318">a La</tspan><tspan class="cls-1" x="511.04" y="318">t</tspan><tspan x="545.64" y="318">ina en una le</tspan><tspan class="cls-1" x="1069.23" y="318">tr</tspan><tspan x="1140.93" y="318">a </tspan><tspan x="37" y="424">que no p</tspan><tspan class="cls-6" x="393.09" y="424">r</tspan><tspan x="429.2" y="424">etende ser neu</tspan><tspan class="cls-1" x="1025.68" y="424">tr</tspan><tspan x="1097.38" y="424">a</tspan><tspan class="cls-5" x="1142.98" y="424">,</tspan><tspan x="1167.98" y="424"> </tspan><tspan x="296.7" y="530">sino autén</tspan><tspan class="cls-1" x="729.49" y="530">t</tspan><tspan x="764.08" y="530">i</tspan><tspan class="cls-2" x="793.08" y="530">c</tspan><tspan x="837.68" y="530">a</tspan><tspan class="cls-5" x="883.28" y="530">.</tspan></text>
+</svg>

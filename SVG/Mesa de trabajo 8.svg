@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="buendia" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 36px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: AvenirLTStd-Book, 'Avenir LT Std';
+      }
+
+      .cls-7 {
+        font-family: AvenirLTStd-MediumOblique, 'Avenir LT Std';
+      }
+
+      .cls-7, .cls-8 {
+        font-style: oblique;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        fill: #432c5f;
+        stroke: #432c5f;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: .02em;
+      }
+
+      .cls-14, .cls-5 {
+        font-family: AvenirLTStd-Medium, 'Avenir LT Std';
+      }
+
+      .cls-8 {
+        font-family: AvenirLTStd-BookOblique, 'Avenir LT Std';
+      }
+
+      .cls-15 {
+        font-family: ACaslonPro-Semibold, 'Adobe Caslon Pro';
+        font-size: 60px;
+        font-weight: 600;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-18 {
+        opacity: .08;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-10" y="-1106.04" width="1920" height="972.36"/>
+    </clipPath>
+  </defs>
+  <text class="cls-15" transform="translate(69.12 133.25)"><tspan class="cls-12" x="0" y="0">E</tspan><tspan x="41.76" y="0">l lenguaje visual</tspan></text>
+  <text class="cls-2" transform="translate(69.2 216.85)"><tspan class="cls-6"><tspan x="0" y="0">Buendía es una tipografía serif con un alto contraste moderado, serifas bien </tspan></tspan><tspan class="cls-6"><tspan x="0" y="43.2">definidas y un ritmo de lectura fluido. Está pensada para funcionar en cuerpos de </tspan></tspan><tspan class="cls-6"><tspan x="0" y="86.4">texto, pe</tspan><tspan class="cls-4" x="144.64" y="86.4">r</tspan><tspan x="155.95" y="86.4">o tiene un tono tan exp</tspan><tspan class="cls-4" x="532.68" y="86.4">r</tspan><tspan x="543.98" y="86.4">esivo que también se luce en titula</tspan><tspan class="cls-16" x="1102.01" y="86.4">r</tspan><tspan x="1113.31" y="86.4">es.</tspan></tspan><tspan class="cls-6"><tspan x="0" y="129.6">Su estética </tspan><tspan class="cls-4" x="183.99" y="129.6">r</tspan><tspan x="195.29" y="129.6">ecue</tspan><tspan class="cls-4" x="272.69" y="129.6">r</tspan><tspan x="284" y="129.6">da a las letras de periódicos antiguos y a los </tspan><tspan class="cls-16" x="1002.65" y="129.6">r</tspan><tspan x="1013.95" y="129.6">ótulos hechos a </tspan></tspan><tspan class="cls-6"><tspan x="0" y="172.8">mano, pe</tspan><tspan class="cls-4" x="152.75" y="172.8">r</tspan><tspan x="164.05" y="172.8">o sin nostalgia: hay en Buendía una </tspan><tspan class="cls-4" x="741.59" y="172.8">r</tspan><tspan x="752.89" y="172.8">einterp</tspan><tspan class="cls-16" x="867.48" y="172.8">r</tspan><tspan x="878.78" y="172.8">etación contemporánea de </tspan></tspan><tspan class="cls-6"><tspan x="0" y="216">esas influencias.</tspan></tspan><tspan class="cls-6"><tspan x="0" y="302.4">El p</tspan><tspan class="cls-4" x="61.99" y="302.4">r</tspan><tspan x="73.29" y="302.4">oyecto fue desar</tspan><tspan class="cls-4" x="341.34" y="302.4">r</tspan><tspan x="352.65" y="302.4">ollado como parte de un p</tspan><tspan class="cls-16" x="782.7" y="302.4">r</tspan><tspan x="794" y="302.4">oceso de </tspan><tspan class="cls-4" x="951.43" y="302.4">r</tspan><tspan x="962.73" y="302.4">eflexión sob</tspan><tspan class="cls-4" x="1158.13" y="302.4">r</tspan><tspan x="1169.44" y="302.4">e la </tspan></tspan><tspan class="cls-6"><tspan class="cls-4" x="0" y="345.6">r</tspan><tspan x="11.3" y="345.6">elación ent</tspan><tspan class="cls-4" x="187.99" y="345.6">r</tspan><tspan x="199.29" y="345.6">e tipografía y literatura, particula</tspan><tspan class="cls-13" x="721.64" y="345.6">r</tspan><tspan x="734.23" y="345.6">mente con un guiño cla</tspan><tspan class="cls-4" x="1112.37" y="345.6">r</tspan><tspan x="1123.67" y="345.6">o a Gabriel </tspan></tspan><tspan class="cls-6"><tspan x="0" y="388.8">Ga</tspan><tspan class="cls-4" x="46.69" y="388.8">r</tspan><tspan x="58" y="388.8">cía Má</tspan><tspan class="cls-4" x="163.4" y="388.8">r</tspan><tspan x="174.71" y="388.8">quez y la tradición narrativa del </tspan><tspan class="cls-16" x="685.93" y="388.8">r</tspan><tspan x="697.23" y="388.8">ealismo mágico. De ahí su nomb</tspan><tspan class="cls-4" x="1222.72" y="388.8">r</tspan><tspan x="1234.02" y="388.8">e, </tspan></tspan><tspan class="cls-6" x="0" y="432">una </tspan><tspan class="cls-3" x="68.72" y="432">r</tspan><tspan class="cls-6" x="80.03" y="432">efe</tspan><tspan class="cls-3" x="130.71" y="432">r</tspan><tspan class="cls-6" x="142.02" y="432">encia sutil a la familia Buendía de </tspan><tspan class="cls-8" x="686.04" y="432">Cien años de soledad</tspan><tspan class="cls-6" x="1035.48" y="432" xml:space="preserve"> y al imaginario </tspan><tspan class="cls-6"><tspan x="0" y="475.2">que habita Macondo.</tspan></tspan></text>
+  <text class="cls-1" transform="translate(90.48 783.07)"><tspan class="cls-7"><tspan x="0" y="0">“Buendía busca capturar ese equilibrio ent</tspan><tspan class="cls-4" x="694.14" y="0">r</tspan><tspan x="706.82" y="0">e lo cotidiano y lo extrao</tspan><tspan class="cls-4" x="1111.74" y="0">r</tspan><tspan x="1124.41" y="0">dinario </tspan></tspan><tspan class="cls-7" x="0" y="43.2">que tiene la narrativa de Gabo”</tspan><tspan class="cls-14" x="514.83" y="43.2">, comentó Puertas en una p</tspan><tspan class="cls-5" x="962.45" y="43.2">r</tspan><tspan class="cls-14" x="975.12" y="43.2">esentación sob</tspan><tspan class="cls-5" x="1219.91" y="43.2">r</tspan><tspan class="cls-14" x="1232.59" y="43.2">e </tspan><tspan class="cls-14"><tspan x="0" y="86.4">tipografía latinoamericana.</tspan></tspan></text>
+  <g class="cls-17">
+    <g class="cls-18">
+      <path class="cls-9" d="M52.73-251.03H8.42c-1.05-2.11-1.58-4.75-1.58-6.33,0-13.71,24.79-18.46,74.9-18.46h69.1c81.76,0,122.38,24.26,122.38,75.96,0,42.73-39.04,72.27-89.15,77.01,62.77,0,104.44,33.23,104.44,75.96,0,61.72-54.86,92.84-139.79,92.84H5.25c-1.58-1.58-2.11-4.22-2.11-5.8,0-11.08,16.35-16.88,49.58-18.46V-251.03ZM147.68-131.29c36.92,0,70.16-20.57,70.16-65.94,0-34.81-25.32-53.8-73.32-53.8h-37.45v119.74h40.62ZM149.79,21.16c49.58,0,83.34-22.68,83.34-67.52,0-38.51-31.12-62.77-83.87-62.77h-42.2V21.16h42.73Z"/>
+      <path class="cls-9" d="M356.56-157.66c-5.27-.53-10.02-.53-14.77-.53-8.97,0-16.88,1.05-23.74,2.11-1.06-2.11-1.58-4.22-1.58-7.38,0-12.66,21.63-21.1,60.66-21.1,22.68,0,27.43,10.02,27.43,23.21V-30.54c0,33.23,14.24,56.44,47.47,56.44s63.3-32.18,63.3-73.32v-110.25c-5.27-.53-10.02-.53-14.77-.53-8.97,0-16.88,1.05-23.74,2.11-1.06-2.11-1.58-4.22-1.58-7.38,0-12.66,21.63-21.1,60.66-21.1,22.68,0,27.43,10.02,27.43,23.21V6.39c0,13.71,6.33,23.21,18.99,23.21,11.61,0,20.57-7.91,26.38-23.21,6.33,0,8.97,6.86,8.97,10.02,0,15.3-18.46,37.45-51.17,37.45s-47.47-20.57-47.47-48.53c0-2.11,0-4.75.53-7.91-13.71,32.18-42.73,56.44-83.87,56.44-55.39,0-79.12-32.18-79.12-82.29v-129.24Z"/>
+      <path class="cls-9" d="M689.41-73.26c0,60.66,23.74,101.28,74.9,101.28,32.71,0,54.33-17.41,64.35-40.09,7.91,0,12.66,4.22,12.66,12.13,0,18.99-32.18,53.8-88.62,53.8-77.01,0-113.94-54.33-113.94-120.27,0-70.16,42.73-126.07,114.47-126.07,58.55,0,95.48,24.79,95.48,97.06,0,3.17,0,8.97-.53,12.66h-158.78v9.5ZM795.96-104.39c.53-3.69.53-6.86.53-10.55,0-30.07-13.19-56.97-44.84-56.97s-53.8,21.63-60.13,67.52h104.44Z"/>
+      <path class="cls-9" d="M930.46-157.14c-6.86-.53-13.71-1.05-20.04-1.05-8.97,0-16.88,1.05-23.74,2.11-1.05-2.11-1.58-4.22-1.58-7.38,0-12.66,21.63-21.1,60.66-21.1,22.68,0,27.43,10.02,27.43,23.21v27.43c13.71-33.23,44.84-58.55,85.98-58.55,56.44,0,83.87,28.49,83.87,87.56V24.85h42.73c1.05,1.58,1.58,3.69,1.58,5.27,0,11.61-22.15,15.83-66.99,15.83h-64.88c-1.05-1.58-1.58-3.69-1.58-5.28,0-8.97,13.71-13.71,41.14-15.3v-125.54c0-47.47-16.88-64.88-50.64-64.88s-65.94,32.18-65.94,73.32V24.85h41.15c1.05,1.58,1.58,3.69,1.58,5.27,0,11.61-22.15,15.83-66.99,15.83h-64.88c-1.05-1.58-1.58-3.69-1.58-5.28,0-8.97,13.71-13.71,42.73-15.3v-182.51Z"/>
+      <path class="cls-9" d="M1396.24,1.64c-15.3,32.71-45.89,52.22-80.71,52.22-72.27,0-99.17-51.69-99.17-117.1,0-75.96,46.95-129.24,109.72-129.24,29.54,0,52.22,10.55,65.94,30.07v-118.16c-7.91-.53-15.3-1.05-22.15-1.05-10.02,0-18.46.53-26.38,2.11-1.05-2.11-1.58-4.75-1.58-7.91,0-13.19,24.27-22.15,67.52-22.15,25.32,0,30.59,10.55,30.59,24.26V4.28c0,15.3,6.33,25.32,19.52,25.32,10.55,0,20.57-7.91,25.85-23.21,6.33,0,8.97,6.86,8.97,10.02,0,15.3-18.46,37.45-51.17,37.45s-46.95-20.04-46.95-48V1.64ZM1392.02-105.44c0-41.14-30.59-62.77-58.55-62.77-44.31,0-65.41,36.4-65.41,103.39,0,48.53,13.71,91.26,61.72,91.26,31.12,0,62.24-26.38,62.24-71.21v-60.66Z"/>
+      <path class="cls-9" d="M1551.84-157.66c-5.28-.53-10.02-.53-14.77-.53-8.97,0-16.88,1.05-23.74,2.11-1.06-2.11-1.58-4.22-1.58-7.38,0-12.66,21.63-21.1,60.66-21.1,22.68,0,27.43,10.02,27.43,23.21V24.85h41.67c1.05,1.58,1.58,3.69,1.58,5.27,0,11.61-22.15,15.83-66.99,15.83h-64.88c-1.05-1.58-1.58-3.69-1.58-5.28,0-8.97,13.71-13.71,42.2-15.3v-183.04ZM1548.15-264.22c0-17.93,13.19-29.54,28.48-29.54,16.35,0,27.43,12.13,27.43,29.54,0,14.77-12.13,27.43-29.01,27.43s-26.9-12.66-26.9-27.43Z"/>
+      <path class="cls-9" d="M1815.05-115.99c0-25.85-5.8-55.92-43.25-55.92-26.9,0-43.78,16.35-43.78,45.37,0,9.5,1.06,17.93,5.8,28.48-4.75,2.11-8.44,3.17-14.77,3.17-18.46,0-34.82-12.66-34.82-36.4,0-34.29,32.71-61.19,91.79-61.19,62.24,0,86.51,33.23,86.51,81.76V4.28c0,17.41,7.38,25.32,17.93,25.32,12.66,0,21.63-7.91,27.43-23.21,6.33,0,8.97,6.86,8.97,10.02,0,15.3-18.46,37.45-51.17,37.45-25.32,0-43.78-14.24-46.95-42.73-13.71,28.48-44.84,42.73-74.9,42.73-37.45,0-68.05-19.52-68.05-56.97s35.34-64.88,100.22-64.88c12.13,0,24.79,1.06,39.03,3.17v-51.17ZM1815.05-45.83c-10.02-1.06-19.52-2.11-28.48-2.11-37.45,0-62.25,12.13-62.25,40.62,0,22.68,16.88,35.87,36.92,35.87,28.49,0,53.8-19.52,53.8-55.92v-18.46Z"/>
+    </g>
+  </g>
+  <line class="cls-11" x1="75" y1="893.93" x2="75" y2="741.55"/>
+</svg>
